@@ -5,7 +5,7 @@ import java.util.Scanner; // imports the scanner which will be used
 
 // Program Name: SquareCubePowerMultiplier
 // Date Started: July 14, 2021
-// Author: Max Wang
+// Author: Me
 // Purpose: using the console as input, create a program which can square, cube or otherwise use exponents to multiply a designated number
 
 public class SquareCubePowerMultiplier {
